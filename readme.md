@@ -29,6 +29,8 @@ A simple API for an example social media platform using MongoDB.
 1. Start the server by running `npm start`.
 2. Use a tool like Postman or Insomnia to make requests to the API.
 
+A link to an example video [here.](https://drive.google.com/file/d/1xOo1o0_sYLsOvcv6H2GHixtk1K18DlJW/view?usp=sharing)
+
 ## API Endpoints
 
 ### User routes:
